@@ -1,0 +1,13 @@
+references-private/
+node_modules/
+.pnpm-store/
+.env
+.env.*
+!.env.example
+.visual-director/reports/
+.visual-director/cache/
+playwright-report/
+test-results/
+coverage/
+dist/
+.next/
